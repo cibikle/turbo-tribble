@@ -30,7 +30,7 @@ package vtcpt;
  */
 public enum Codes {
     /* client to server */
-   ELO ("ELO");
+   ELO ("ELO"), MSG ("MSG");
 //   public static final String MSG = "MSG";
 //   public static final String FIR = "FIR";
 //   public static final String BYE = "BYE";
